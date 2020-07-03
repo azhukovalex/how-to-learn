@@ -1,0 +1,10 @@
+.feynman__subtitle {
+  -ms-flex-item-align: center;
+      align-self: center;
+  margin-top: 70px;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  z-index: 2;
+}
